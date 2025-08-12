@@ -1,0 +1,33 @@
+{
+  "info": {
+    "name": "HerAi Demo Collection"
+  },
+  "item": [
+    {
+      "name": "Send message webhook",
+      "request": {
+        "method": "POST",
+        "url": {
+          "raw": "https://your-edge/functions/message-webhook"
+        },
+        "body": {
+          "mode": "raw",
+          "raw": "{\"from\": \"user@example.com\", \"content\": \"Hey babe, miss you\"}"
+        }
+      }
+    },
+    {
+      "name": "Trigger persona autogen",
+      "request": {
+        "method": "POST",
+        "url": {
+          "raw": "https://your-edge/functions/persona-autogen"
+        },
+        "body": {
+          "mode": "raw",
+          "raw": ""
+        }
+      }
+    }
+  ]
+}

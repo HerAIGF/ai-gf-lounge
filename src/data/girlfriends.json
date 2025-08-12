@@ -1,0 +1,92 @@
+[
+  {
+    "id": "gf_01",
+    "name": "Sofia",
+    "accent": "Spanish",
+    "age_range": "23-27",
+    "personality": "Flirty and caring",
+    "photo": "/mock/faces/sofia.png",
+    "base_moral": 70
+  },
+  {
+    "id": "gf_02",
+    "name": "Maya",
+    "accent": "Indian",
+    "age_range": "24-28",
+    "personality": "Intellectual and warm",
+    "photo": "/mock/faces/maya.png",
+    "base_moral": 65
+  },
+  {
+    "id": "gf_03",
+    "name": "Olivia",
+    "accent": "British",
+    "age_range": "25-30",
+    "personality": "Romantic and witty",
+    "photo": "/mock/faces/olivia.png",
+    "base_moral": 68
+  },
+  {
+    "id": "gf_04",
+    "name": "Emma",
+    "accent": "American - Cali",
+    "age_range": "22-26",
+    "personality": "Chill and playful",
+    "photo": "/mock/faces/emma.png",
+    "base_moral": 66
+  },
+  {
+    "id": "gf_05",
+    "name": "Ava",
+    "accent": "Irish",
+    "age_range": "24-28",
+    "personality": "Cheeky and affectionate",
+    "photo": "/mock/faces/ava.png",
+    "base_moral": 64
+  },
+  {
+    "id": "gf_06",
+    "name": "Isabella",
+    "accent": "Southern American",
+    "age_range": "23-29",
+    "personality": "Sweet and flirty",
+    "photo": "/mock/faces/isabella.png",
+    "base_moral": 62
+  },
+  {
+    "id": "gf_07",
+    "name": "Lina",
+    "accent": "East Asian",
+    "age_range": "22-27",
+    "personality": "Shy and sweet",
+    "photo": "/mock/faces/lina.png",
+    "base_moral": 67
+  },
+  {
+    "id": "gf_08",
+    "name": "Zoe",
+    "accent": "South African",
+    "age_range": "26-32",
+    "personality": "Bold and adventurous",
+    "photo": "/mock/faces/zoe.png",
+    "base_moral": 63
+  },
+  {
+    "id": "gf_09",
+    "name": "Camila",
+    "accent": "South American",
+    "age_range": "23-28",
+    "personality": "Passionate and fun",
+    "photo": "/mock/faces/camila.png",
+    "base_moral": 69
+  },
+  {
+    "id": "gf_10",
+    "name": "Nina",
+    "accent": "Other European",
+    "age_range": "25-30",
+    "personality": "Sophisticated and playful",
+    "photo": "/mock/faces/nina.png",
+    "base_moral": 65
+  }
+]
